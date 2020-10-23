@@ -4,7 +4,7 @@
 
 •	Generated trading signals based on 18-month simple moving average
 
-# Trend Analysis with Realtime Stock Screener
+# Chinese Equities
 
 <img src="https://github.com/ejenkins-001/Realtime-Stock-Screener/blob/master/Silver.JPG" height="500">
 
