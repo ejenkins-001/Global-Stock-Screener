@@ -4,7 +4,7 @@
 
 •	Generated trading signals based on 18-month simple moving average
 
-# Chinese Equities showing positive changes in trend
+# Chinese equities showing positive change
 
 <img src="https://github.com/ejenkins-001/Realtime-Stock-Screener/blob/master/Silver.JPG" height="500">
 
