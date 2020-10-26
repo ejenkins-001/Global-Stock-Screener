@@ -1,5 +1,5 @@
 # Trend Analysis with Global Stock Screener
- (real-time data from investing.com)
+ real-time data from investing.com
 
 •	Created global stock screener to screen for major trend reversals after extended declines
 
