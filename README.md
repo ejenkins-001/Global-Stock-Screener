@@ -1,6 +1,6 @@
-# Trend Analysis with Global Stock Screener
+# Trend Analysis with Global Stock Screener (real-time data from investing.com)
 
-•	Created global stock screener to screen for major trend reversals after extended declines, global real-time data
+•	Created global stock screener to screen for major trend reversals after extended declines
 
 • Generated trading alerts based on change in direction of 18-month simple moving average
 
