@@ -1,4 +1,4 @@
-# Trend Analysis with Realtime Global Stock Screener
+# Trend Analysis with Global Stock Screener
 
 •	Created global stock screener to screen for major trend reversals after extended declines, global real-time data
 
