@@ -1,9 +1,10 @@
 # Trend Analysis with Global Stock Screener
  (real-time data from investing.com)
 
-• Created trend following trading algorithm to gain risk adjusted profits from major trend reversals
+• Created global stock screener to screen for major trend reversals after extended price declines
 
-• Generated trading signals based on trend analysis of 18-day simple moving average
+• Generated trading alerts based on change in direction of 18-month simple moving average
+
 
 
 ## Getting Started
