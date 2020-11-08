@@ -1,0 +1,25 @@
+***LONG TERM TREND FOLLOWING BUY STRATEGY***
+
+risk per trade = 100 basis points
+wide bodied bar = 1.14 x (average 4 day length)
+
+
+BUY SIGNAL
+
+Daily Trend Model Buy Signal
+
+If (18 day MA > 0 for two consecutive closes) & (2 green wide bodied bar candles where second candle closes 3% above the close of the first candle)
+	Enter buy market order at the close
+	Enter stop loss at the low of the first candle
+	position size = (account balance x .01) / (entry price - stop loss price)
+	disable the ability to place new orders for daily chart buy signals
+
+SELL SIGNAL
+
+Daily Trend Model Sell Signal
+
+If (18 day MA < 0 for two consecutive closes) & (2 red wide bodied bar candles where second candle closes 3% below the close of the first candle)
+	Enter sell order at the close
+	Remove stop loss from previously triggered daily chart buy order
+	position size = size of the previously triggered daily buy order
+	enable the ability to place new orders for daily chart buy signals
