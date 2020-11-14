@@ -4,7 +4,7 @@
 • Created global stock screener to screen for major trend reversals after extended price declines
 
 • Generated trading signals based on change in direction of 18-month simple moving average
-/n
+\n
 
 script last run on 10/31/2020
 ![600835](https://user-images.githubusercontent.com/35648851/99133465-bcc69e00-25df-11eb-9469-2f28218f129f.png)
