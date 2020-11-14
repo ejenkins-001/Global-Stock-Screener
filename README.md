@@ -5,7 +5,10 @@
 
 • Generated trading signals based on change in direction of 18-month simple moving average
 
-![sma](https://user-images.githubusercontent.com/35648851/98488077-b05fd100-21ec-11eb-8ac2-d02f42ccee70.png)
-![600068](https://user-images.githubusercontent.com/35648851/99130484-14f8a280-25d6-11eb-8ab8-b275f0d57229.png)
-![600056](https://user-images.githubusercontent.com/35648851/99130521-2c379000-25d6-11eb-8781-7faf97669342.png)
+
+![600835](https://user-images.githubusercontent.com/35648851/99133465-bcc69e00-25df-11eb-9469-2f28218f129f.png)
+![603100](https://user-images.githubusercontent.com/35648851/99133473-c3551580-25df-11eb-8af3-1a430b2af1fb.png)
+![300681](https://user-images.githubusercontent.com/35648851/99133485-cc45e700-25df-11eb-8082-d06429d37bf8.png)
+![300747](https://user-images.githubusercontent.com/35648851/99133495-d49e2200-25df-11eb-83d9-0ae38c87894f.png)
+![002404](https://user-images.githubusercontent.com/35648851/99133506-dff14d80-25df-11eb-8da1-b61c0b4b32e3.png)
 ![list](https://user-images.githubusercontent.com/35648851/98488146-1d736680-21ed-11eb-90b2-a007493d1d75.JPG)
