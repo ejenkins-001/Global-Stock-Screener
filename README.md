@@ -5,8 +5,6 @@
 
 • Generated trading signals based on change in direction of 18-month simple moving average
 
-
-
 ![600835](https://user-images.githubusercontent.com/35648851/99133465-bcc69e00-25df-11eb-9469-2f28218f129f.png)
 ![603100](https://user-images.githubusercontent.com/35648851/99133473-c3551580-25df-11eb-8af3-1a430b2af1fb.png)
 ![300681](https://user-images.githubusercontent.com/35648851/99133485-cc45e700-25df-11eb-8082-d06429d37bf8.png)
