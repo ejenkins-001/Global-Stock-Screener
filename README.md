@@ -6,7 +6,7 @@
 • Generated trading signals based on change in direction of 18-month simple moving average
 
 # results from 12/31/2020
-![Capture3](https://user-images.githubusercontent.com/35648851/105541961-3228ac00-5cbe-11eb-8583-7e5fa1e9ef79.PNG)
+![Capture](https://user-images.githubusercontent.com/35648851/105548641-7ec3b580-5cc5-11eb-86e6-fe0ed22c16ab.PNG)
 ![Capture](https://user-images.githubusercontent.com/35648851/105548461-415f2800-5cc5-11eb-9719-3cdff54943d4.PNG)
 ![Capture](https://user-images.githubusercontent.com/35648851/105548150-e62d3580-5cc4-11eb-9d79-7d8012e2f5a9.PNG)
 
