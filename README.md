@@ -7,6 +7,7 @@
 
 # results from 12/31/2020
 ![Capture3](https://user-images.githubusercontent.com/35648851/105541961-3228ac00-5cbe-11eb-8583-7e5fa1e9ef79.PNG)
+![Capture](https://user-images.githubusercontent.com/35648851/105547912-a23a3080-5cc4-11eb-90ae-a3648049ba5a.PNG)
 
 # results from 11/31/2020
 
