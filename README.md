@@ -6,11 +6,11 @@
 • Generated trading signals based on change in direction of 18-month simple moving average
 
 # results from 12/31/2020
-![Capture](https://user-images.githubusercontent.com/35648851/105548641-7ec3b580-5cc5-11eb-86e6-fe0ed22c16ab.PNG)
-![Capture](https://user-images.githubusercontent.com/35648851/105548461-415f2800-5cc5-11eb-9719-3cdff54943d4.PNG)
-![Capture](https://user-images.githubusercontent.com/35648851/105548150-e62d3580-5cc4-11eb-9d79-7d8012e2f5a9.PNG)
-![Capture](https://user-images.githubusercontent.com/35648851/105550558-2ab9d080-5cc7-11eb-9c27-cfdd850c1d9f.PNG)
-![Capture](https://user-images.githubusercontent.com/35648851/105548849-cba78c00-5cc5-11eb-9a86-97234d6ffc66.PNG)
+![Capture](https://user-images.githubusercontent.com/35648851/105660354-6eac0180-5e90-11eb-87e3-1e90ac00dba1.PNG)
+![Capture1](https://user-images.githubusercontent.com/35648851/105660356-6f449800-5e90-11eb-99dd-13e26f637dcc.PNG)
+![Capture2](https://user-images.githubusercontent.com/35648851/105660357-6f449800-5e90-11eb-961f-6f9ce636fcab.PNG)
+![Capture3](https://user-images.githubusercontent.com/35648851/105660358-6f449800-5e90-11eb-9a8e-b20d15ff526a.PNG)
+![Capture4](https://user-images.githubusercontent.com/35648851/105660359-6fdd2e80-5e90-11eb-9d79-9834b506b2d2.PNG)
 
 
 # results from 11/31/2020
