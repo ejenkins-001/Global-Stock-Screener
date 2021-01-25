@@ -14,19 +14,19 @@
 
 
 # results from 11/31/2020
-![Capture](https://user-images.githubusercontent.com/35648851/105548999-ff82b180-5cc5-11eb-813f-5ca2875b9347.PNG)
-![Capture](https://user-images.githubusercontent.com/35648851/105549152-2f31b980-5cc6-11eb-807a-3ba40d1c0735.PNG)
-![Capture](https://user-images.githubusercontent.com/35648851/105549416-8768bb80-5cc6-11eb-8674-ea302700d826.PNG)
-![Capture2](https://user-images.githubusercontent.com/35648851/105549420-8899e880-5cc6-11eb-8693-aefe3ea18b7a.PNG)
-![Capture](https://user-images.githubusercontent.com/35648851/105568607-5e651c80-5d00-11eb-8760-a0c825300471.PNG)
-![Capture2](https://user-images.githubusercontent.com/35648851/105568608-5efdb300-5d00-11eb-9705-921c1f18515d.PNG)
-![Capture3](https://user-images.githubusercontent.com/35648851/105568609-5efdb300-5d00-11eb-8cc2-ac2d205d07c5.PNG)
-![Capture4](https://user-images.githubusercontent.com/35648851/105568610-5f964980-5d00-11eb-8277-97b7328175cb.PNG)
-![Capture5'](https://user-images.githubusercontent.com/35648851/105568611-5f964980-5d00-11eb-936d-9fc1616a3d39.PNG)
-![Capture6](https://user-images.githubusercontent.com/35648851/105568601-54dbb480-5d00-11eb-8723-7fb2df7d9aa6.PNG)
-![Capture7](https://user-images.githubusercontent.com/35648851/105568602-55744b00-5d00-11eb-93f1-9e2911b36f3e.PNG)
-![Capture8](https://user-images.githubusercontent.com/35648851/105568603-560ce180-5d00-11eb-89a8-f44b4feb8df7.PNG)
-![Capture9](https://user-images.githubusercontent.com/35648851/105568604-560ce180-5d00-11eb-86b8-479db412be37.PNG)
+![Capture4](https://user-images.githubusercontent.com/35648851/105662119-943b0a00-5e94-11eb-8115-0d0dd0a5fa84.PNG)
+![Capture5](https://user-images.githubusercontent.com/35648851/105662120-943b0a00-5e94-11eb-8e22-7755eed3a0f9.PNG)
+![Capture6](https://user-images.githubusercontent.com/35648851/105662121-943b0a00-5e94-11eb-86a6-2c8d9f8480ea.PNG)
+![Capture7](https://user-images.githubusercontent.com/35648851/105662123-94d3a080-5e94-11eb-901f-4c56c0919015.PNG)
+![Capture8](https://user-images.githubusercontent.com/35648851/105662124-94d3a080-5e94-11eb-884a-eb9db22b35c4.PNG)
+![Capture9](https://user-images.githubusercontent.com/35648851/105662125-956c3700-5e94-11eb-9724-e20750607307.PNG)
+![Capture91](https://user-images.githubusercontent.com/35648851/105662126-956c3700-5e94-11eb-9720-875c2555c3f3.PNG)
+![Capture92](https://user-images.githubusercontent.com/35648851/105662128-956c3700-5e94-11eb-92cd-be8287f3137a.PNG)
+![Capture93](https://user-images.githubusercontent.com/35648851/105662131-9604cd80-5e94-11eb-8801-05a9108f1798.PNG)
+![Capture94](https://user-images.githubusercontent.com/35648851/105662132-9604cd80-5e94-11eb-8ff8-8a71d02f6c78.PNG)
+![Capture95](https://user-images.githubusercontent.com/35648851/105662135-969d6400-5e94-11eb-8281-765ed9c41328.PNG)
+![Capture96](https://user-images.githubusercontent.com/35648851/105662137-969d6400-5e94-11eb-9eb9-f671e2c48478.PNG)
+![Capture97](https://user-images.githubusercontent.com/35648851/105662139-969d6400-5e94-11eb-9a70-126080405c5d.PNG)
 
 
 # results from 10/31/2020
