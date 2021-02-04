@@ -6,14 +6,14 @@
 • Generated trading signals based on change in direction of 18-month simple moving average
 
 # results from 01/31/2021
-![Capture1](https://user-images.githubusercontent.com/35648851/106841302-7bd2a880-6667-11eb-8596-883ef0fc48f1.PNG)
-![Capture2](https://user-images.githubusercontent.com/35648851/106841303-7bd2a880-6667-11eb-9332-b97543dd5aab.PNG)
-![Capture3](https://user-images.githubusercontent.com/35648851/106841305-7bd2a880-6667-11eb-9049-fcc8a49d796c.PNG)
-![Capture4](https://user-images.githubusercontent.com/35648851/106841306-7c6b3f00-6667-11eb-85c0-7ab80a3d7701.PNG)
-![Capture5](https://user-images.githubusercontent.com/35648851/106841307-7c6b3f00-6667-11eb-9f94-e13e5de0b242.PNG)
-![Capture6](https://user-images.githubusercontent.com/35648851/106841308-7c6b3f00-6667-11eb-91ed-2b73fef5dc22.PNG)
-![Capture7](https://user-images.githubusercontent.com/35648851/106841311-7d03d580-6667-11eb-8cc6-ddda288d5f5b.PNG)
-![Capture8](https://user-images.githubusercontent.com/35648851/106841313-7d03d580-6667-11eb-9bf4-d50dc36d1717.PNG)
+![Capture1](https://user-images.githubusercontent.com/35648851/106841411-b0defb00-6667-11eb-987a-94d255699597.PNG)
+![Capture2](https://user-images.githubusercontent.com/35648851/106841412-b0defb00-6667-11eb-962b-97182e7ae651.PNG)
+![Capture3](https://user-images.githubusercontent.com/35648851/106841413-b1779180-6667-11eb-89a8-6da63a006125.PNG)
+![Capture4](https://user-images.githubusercontent.com/35648851/106841415-b1779180-6667-11eb-92ca-9ccec6882bab.PNG)
+![Capture5](https://user-images.githubusercontent.com/35648851/106841417-b2102800-6667-11eb-803e-a38b7181f4d4.PNG)
+![Capture6](https://user-images.githubusercontent.com/35648851/106841418-b2102800-6667-11eb-8c30-f49c80df485a.PNG)
+![Capture7](https://user-images.githubusercontent.com/35648851/106841420-b2102800-6667-11eb-9a56-9bcc763d4cf2.PNG)
+![Capture8](https://user-images.githubusercontent.com/35648851/106841421-b2a8be80-6667-11eb-8ad7-f35f6278ce43.PNG)
 
 ![Capture1](https://user-images.githubusercontent.com/35648851/106838953-d61d3a80-6662-11eb-8d71-58a659532691.PNG)
 ![Capture2](https://user-images.githubusercontent.com/35648851/106838955-d61d3a80-6662-11eb-9900-8db14ae24ff0.PNG)
