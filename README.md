@@ -14,6 +14,8 @@
 ![Capture6](https://user-images.githubusercontent.com/35648851/106841418-b2102800-6667-11eb-8c30-f49c80df485a.PNG)
 ![Capture7](https://user-images.githubusercontent.com/35648851/106841420-b2102800-6667-11eb-9a56-9bcc763d4cf2.PNG)
 ![Capture8](https://user-images.githubusercontent.com/35648851/106841421-b2a8be80-6667-11eb-8ad7-f35f6278ce43.PNG)
+![Capture9](https://user-images.githubusercontent.com/35648851/106858822-d67bfc80-6687-11eb-8e44-2c66a59210a7.PNG)
+![Capture91](https://user-images.githubusercontent.com/35648851/106858823-d67bfc80-6687-11eb-8f8e-d95d7cf8d055.PNG)
 
 
 # results from 12/31/2020
