@@ -6,6 +6,15 @@
 • Generated trading signals based on change in direction of 18-month simple moving average
 
 # results from 01/31/2021
+![Capture1](https://user-images.githubusercontent.com/35648851/106841302-7bd2a880-6667-11eb-8596-883ef0fc48f1.PNG)
+![Capture2](https://user-images.githubusercontent.com/35648851/106841303-7bd2a880-6667-11eb-9332-b97543dd5aab.PNG)
+![Capture3](https://user-images.githubusercontent.com/35648851/106841305-7bd2a880-6667-11eb-9049-fcc8a49d796c.PNG)
+![Capture4](https://user-images.githubusercontent.com/35648851/106841306-7c6b3f00-6667-11eb-85c0-7ab80a3d7701.PNG)
+![Capture5](https://user-images.githubusercontent.com/35648851/106841307-7c6b3f00-6667-11eb-9f94-e13e5de0b242.PNG)
+![Capture6](https://user-images.githubusercontent.com/35648851/106841308-7c6b3f00-6667-11eb-91ed-2b73fef5dc22.PNG)
+![Capture7](https://user-images.githubusercontent.com/35648851/106841311-7d03d580-6667-11eb-8cc6-ddda288d5f5b.PNG)
+![Capture8](https://user-images.githubusercontent.com/35648851/106841313-7d03d580-6667-11eb-9bf4-d50dc36d1717.PNG)
+
 ![Capture1](https://user-images.githubusercontent.com/35648851/106838953-d61d3a80-6662-11eb-8d71-58a659532691.PNG)
 ![Capture2](https://user-images.githubusercontent.com/35648851/106838955-d61d3a80-6662-11eb-9900-8db14ae24ff0.PNG)
 ![Capture3](https://user-images.githubusercontent.com/35648851/106838956-d6b5d100-6662-11eb-96bd-f3d3710cf890.PNG)
